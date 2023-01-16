@@ -18,3 +18,6 @@ chmod +x <skripti failinimi> #õiguste määramine skripti käivitamiseks
 ./<skripti failinimi, vajadusel koos asukohaga> #skripti käivitamine 1
 sh <skripti failinimi, vajadusel koos asukohaga> #skripti käivitamine 2
 ```
+
+# Litsents
+See projekt on litsenseeritud MIT Litsensi all - [LICENSE.md](LICENSE.md)
